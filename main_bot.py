@@ -459,4 +459,4 @@ async def on_message(message):
                 await message.channel.send("**Eroare:** Nu ai permisiunea de a folosi aceasta comanda.")
 
 
-client.run("MTA2MTUzNTA4NTgzNDI3Njg3Ng.G4n8Yj.VfTL33830XJZkU4MmfSvFRQ77jPwGQ-Rn7PLU0")
+client.run("TOKEN")
